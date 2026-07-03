@@ -1,71 +1,69 @@
-[
-  ["Beeper","Communication & Customer Service","Message Consolidation & Enhancement","https://www.beeper.com"],
-  ["Missive","Communication & Customer Service","Message Consolidation & Enhancement","https://missiveapp.com"],
-  ["Zoho Desk (ZIA)","Communication & Customer Service","Message Consolidation & Enhancement","https://www.zoho.com/desk"],
-  ["forms.app","Communication & Customer Service","Forms & Surveys","https://forms.app"],
-  ["Yay! Forms","Communication & Customer Service","Forms & Surveys","https://www.yayforms.com"],
-  ["involve.me","Communication & Customer Service","Forms & Surveys","https://www.involve.me"],
-  ["Otter.ai","Communication & Customer Service","Meetings","https://otter.ai"],
-  ["Fireflies","Communication & Customer Service","Meetings","https://fireflies.ai"],
-  ["Sally","Communication & Customer Service","Meetings","https://www.sallymeetings.com"],
-  ["tl;dv","Communication & Customer Service","Meetings","https://tldv.io"],
-  ["Pineapple Builder","Communication & Customer Service","Website Creation","https://www.pineapplebuilder.com"],
-  ["Lovable","Communication & Customer Service","Website Creation","https://lovable.dev"],
-  ["bolt","Communication & Customer Service","Website Creation","https://bolt.new"],
-  ["DeepL","Communication & Customer Service","Translation","https://www.deepl.com"],
-  ["Jasper","Communication & Customer Service","Translation","https://www.jasper.ai"],
-  ["Lokalise","Communication & Customer Service","Translation","https://lokalise.com"],
-  ["airfocus","Product Management","Project Management","https://airfocus.com"],
-  ["ProdPad","Product Management","Project Management","https://www.prodpad.com"],
-  ["Pendo","Product Management","Project Management","https://www.pendo.io"],
-  ["Wrike","Product Management","Project Management","https://www.wrike.com"],
-  ["Asana","Product Management","Project Management","https://asana.com"],
-  ["Hive","Product Management","Project Management","https://hive.com"],
-  ["Julius AI","Product Management","Data Analysis","https://julius.ai"],
-  ["DataSquirrel","Product Management","Data Analysis","https://datasquirrel.ai"],
-  ["Vizly","Product Management","Data Analysis","https://vizly.fyi"],
-  ["ResearchRabbit","Academia & Research","Academia & Research","https://www.researchrabbit.ai"],
-  ["NotebookLM","Academia & Research","Academia & Research","https://notebooklm.google"],
-  ["Sharly","Academia & Research","Academia & Research","https://sharly.ai"],
-  ["Perplexity","Academia & Research","Academia & Research","https://www.perplexity.ai"],
-  ["Mindgrasp","Academia & Research","Learning","https://mindgrasp.ai"],
-  ["StudyFetch","Academia & Research","Learning","https://www.studyfetch.com"],
-  ["Notion","Technology & IT","Documentation","https://www.notion.so"],
-  ["Whale","Technology & IT","Documentation","https://usewhale.io"],
-  ["Scribe","Technology & IT","Documentation","https://scribehow.com"],
-  ["Codex","Technology & IT","Coding Assistants","https://openai.com/codex"],
-  ["GitHub Copilot","Technology & IT","Coding Assistants","https://github.com/features/copilot"],
-  ["Cursor","Technology & IT","Coding Assistants","https://www.cursor.com"],
-  ["Syllaby","Marketing & Growth","Social Media","https://syllaby.io"],
-  ["FeedHive","Marketing & Growth","Social Media","https://www.feedhive.com"],
-  ["Hootsuite","Marketing & Growth","Social Media","https://www.hootsuite.com"],
-  ["Humata","Marketing & Growth","Working with text","https://www.humata.ai"],
-  ["QuillBot","Marketing & Growth","Working with text","https://quillbot.com"],
-  ["Grammarly","Marketing & Growth","Working with text","https://www.grammarly.com"],
-  ["TextFX","Marketing & Growth","Working with text","https://textfx.withgoogle.com"],
-  ["Semrush","Marketing & Growth","SEO / GEO","https://www.semrush.com"],
-  ["Alli AI","Marketing & Growth","SEO / GEO","https://www.alliai.com"],
-  ["Surfer","Marketing & Growth","SEO / GEO","https://surferseo.com"],
-  ["AdCreative AI","Marketing & Growth","Campaigns","https://www.adcreative.ai"],
-  ["Realize (Taboola)","Marketing & Growth","Campaigns","https://www.taboola.com/realize"],
-  ["Brand24","Marketing & Growth","Brand/Media Monitoring","https://brand24.com"],
-  ["Brandwatch","Marketing & Growth","Brand/Media Monitoring","https://www.brandwatch.com"],
-  ["Determ","Marketing & Growth","Brand/Media Monitoring","https://www.determ.com"],
-  ["Novelcrafter","Design & Creative","Creative","https://novelcrafter.com"],
-  ["Sudowrite","Design & Creative","Creative","https://www.sudowrite.com"],
-  ["Tripo AI","Design & Creative","Animations & 3D","https://www.tripo3d.ai"],
-  ["Insta 3D","Design & Creative","Animations & 3D","https://insta3d.ai"],
-  ["Animated Drawings","Design & Creative","Animations & 3D","https://sketch.metademolab.com"],
-  ["Luma AI","Design & Creative","Animations & 3D","https://lumalabs.ai"],
-  ["Gamma","Design & Creative","Presentations & Other Visuals","https://gamma.app"],
-  ["Canva Magic Studio","Design & Creative","Presentations & Other Visuals","https://www.canva.com/magic-studio"],
-  ["Napkin","Design & Creative","Presentations & Other Visuals","https://www.napkin.ai"],
-  ["Looka","Design & Creative","Presentations & Other Visuals","https://looka.com"],
-  ["Hirevue","Human Resources","Hiring & Other HR","https://www.hirevue.com"],
-  ["HeroHunt","Human Resources","Hiring & Other HR","https://www.herohunt.ai"],
-  ["Glider AI","Human Resources","Hiring & Other HR","https://glider.ai"],
-  ["Eightfold","Human Resources","Hiring & Other HR","https://eightfold.ai"],
-  ["Zapier","Automation","Automation","https://zapier.com"],
-  ["make","Automation","Automation","https://www.make.com"],
-  ["n8n","Automation","Automation","https://n8n.io"]
-]
+[" & ["","Academia & ResearchAcademia & Research",""]
+["","AutomationAutomation",""]
+["","AutomationAutomation",""]
+["","Human ResourcesHiring & Other HR",""]
+["","Human ResourcesHiring & Other HR",""]
+["","AutomationAutomation",""]
+["","Design & CreativePresentations & Other Visuals",""]
+["","Human ResourcesHiring & Other HR",""]
+["","Human ResourcesHiring & Other HR",""]
+["","Design & CreativePresentations & Other Visuals",""]
+["","Design & CreativePresentations & Other Visuals",""]
+["","Design & CreativePresentations & Other Visuals",""]
+["","Design & CreativeAnimations & 3D",""]
+["","Design & CreativeAnimations & 3D",""]
+["","Design & CreativeAnimations & 3D",""]
+["","Academia & ResearchLearning",""]
+["","Design & CreativeAnimations & 3D",""]
+["","Academia & ResearchLearning",""]
+["","Design & CreativeCreative",""]
+["","Marketing & GrowthBrand/Media Monitoring",""]
+["","Design & CreativeCreative",""]
+["","Marketing & GrowthBrand/Media Monitoring",""]
+["","Marketing & GrowthBrand/Media Monitoring",""]
+["","Marketing & GrowthCampaigns",""]
+["","Communication & Customer ServiceTranslation",""]
+["","Marketing & GrowthCampaigns",""]
+["","Marketing & GrowthSEO / GEO",""]
+["","Communication & Customer ServiceTranslation",""]
+["","Communication & Customer ServiceTranslation",""]
+["","Marketing & GrowthSEO / GEO",""]
+["","Marketing & GrowthSEO / GEO",""]
+["","Marketing & GrowthWorking with text",""]
+["","Marketing & GrowthWorking with text",""]
+["","Marketing & GrowthWorking with text",""]
+["","Marketing & GrowthWorking with text",""]
+["","Marketing & GrowthSocial Media",""]
+["","Marketing & GrowthSocial Media",""]
+["","Technology & ITCoding Assistants",""]
+["","Marketing & GrowthSocial Media",""]
+["","Technology & ITCoding Assistants",""]
+["","Technology & ITCoding Assistants",""]
+["","Technology & ITDocumentation",""]
+["","Technology & ITDocumentation",""]
+["","Technology & ITDocumentation",""]
+["","Academia & ResearchAcademia & Research",""]
+["","Academia & ResearchAcademia & Research",""]
+["","Academia & ResearchAcademia & Research",""]
+["","Communication & Customer ServiceWebsite Creation",""]
+["","Communication & Customer ServiceWebsite Creation",""]
+["","Communication & Customer ServiceWebsite Creation",""]
+["","Product ManagementData Analysis",""]
+["","Product ManagementData Analysis",""]
+["","Product ManagementData Analysis",""]
+["","Product ManagementProject Management",""]
+["","Product ManagementProject Management",""]
+["","Product ManagementProject Management",""]
+["","Product ManagementProject Management",""]
+["","Product ManagementProject Management",""]
+["","Product ManagementProject Management",""]
+["","Communication & Customer ServiceMeetings",""]
+["","Communication & Customer ServiceMeetings",""]
+["","Communication & Customer ServiceMeetings",""]
+["","Communication & Customer ServiceForms & Surveys",""]
+["","Communication & Customer ServiceForms & Surveys",""]
+["","Communication & Customer ServiceMeetings",""]
+["","Communication & Customer ServiceForms & Surveys",""]
+["","Communication & Customer ServiceMessage Consolidation & Enhancement",""]
+["","Communication & Customer ServiceMessage Consolidation & Enhancement",""]
+["","Communication & Customer ServiceMessage Consolidation & Enhancement",""] & "]
